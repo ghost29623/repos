@@ -1,0 +1,6 @@
+﻿  NewsLetter.cpp
+NewsLetter.obj : error LNK2005: "public: __thiscall Newsletter::Newsletter(void)" (??0Newsletter@@QAE@XZ) already defined in main.obj
+NewsLetter.obj : error LNK2005: "public: void __thiscall Newsletter::addSubscriber(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?addSubscriber@Newsletter@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in main.obj
+NewsLetter.obj : error LNK2005: "public: void __thiscall Newsletter::display(void)const " (?display@Newsletter@@QBEXXZ) already defined in main.obj
+main.obj : error LNK2019: unresolved external symbol "public: __thiscall Newsletter::Newsletter(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Newsletter@@QAE@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function _main
+C:\Users\Tues\source\repos\Project5\Debug\Project5.exe : fatal error LNK1120: 1 unresolved externals

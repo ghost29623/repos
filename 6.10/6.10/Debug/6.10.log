@@ -1,0 +1,4 @@
+﻿  salary.c
+c:\users\tues\source\repos\6.10\6.10\salary.c(16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  6.10.vcxproj -> C:\Users\Tues\source\repos\6.10\Debug\6.10.exe
+  6.10.vcxproj -> C:\Users\Tues\source\repos\6.10\Debug\6.10.pdb (Partial PDB)
